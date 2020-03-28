@@ -16,11 +16,4 @@ Fill me in please! Don't forget code examples:
 mySum(3,2)
 ```
 
-
-
-
-    5
-
-
-
 hi there!!
